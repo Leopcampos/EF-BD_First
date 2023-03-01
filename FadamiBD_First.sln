@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FadamiBD_First", "FadamiBD_First\FadamiBD_First.csproj", "{B473F38B-6C21-499C-98D0-8C5916A61A95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B473F38B-6C21-499C-98D0-8C5916A61A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B473F38B-6C21-499C-98D0-8C5916A61A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B473F38B-6C21-499C-98D0-8C5916A61A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B473F38B-6C21-499C-98D0-8C5916A61A95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6809D9B-B601-43FD-9C98-241F9F91D23E}
+	EndGlobalSection
+EndGlobal
